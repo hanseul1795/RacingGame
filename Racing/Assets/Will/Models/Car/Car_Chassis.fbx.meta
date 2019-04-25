@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: d0e3ebe03db56564d98ec9082d1d68a3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CarChassis
+    100004: Hyd1FrontLeft
+    100006: Hyd1FrontRight
+    100008: Hyd2FrontLeft
+    100010: Hyd2FrontRight
+    100012: RotatorFrontLeft
+    100014: RotatorFrontLeft 1
+    100016: Suspension1FrontLeft
+    100018: Suspension1FrontRight
+    100020: Suspension2FrontLeft
+    100022: Suspension2FrontRight
+    100024: SuspensionBackLeft
+    100026: SuspensionBackRight
+    100028: WheelBackLeft
+    100030: WheelBackRight
+    100032: WheelFrontLeft
+    100034: WheelFrontRight
+    400000: //RootNode
+    400002: CarChassis
+    400004: Hyd1FrontLeft
+    400006: Hyd1FrontRight
+    400008: Hyd2FrontLeft
+    400010: Hyd2FrontRight
+    400012: RotatorFrontLeft
+    400014: RotatorFrontLeft 1
+    400016: Suspension1FrontLeft
+    400018: Suspension1FrontRight
+    400020: Suspension2FrontLeft
+    400022: Suspension2FrontRight
+    400024: SuspensionBackLeft
+    400026: SuspensionBackRight
+    400028: WheelBackLeft
+    400030: WheelBackRight
+    400032: WheelFrontLeft
+    400034: WheelFrontRight
+    2100000: lambert1
+    2300000: CarChassis
+    2300002: Hyd1FrontLeft
+    2300004: Hyd1FrontRight
+    2300006: Hyd2FrontLeft
+    2300008: Hyd2FrontRight
+    2300010: RotatorFrontLeft
+    2300012: RotatorFrontLeft 1
+    2300014: Suspension1FrontLeft
+    2300016: Suspension1FrontRight
+    2300018: Suspension2FrontLeft
+    2300020: Suspension2FrontRight
+    2300022: SuspensionBackLeft
+    2300024: SuspensionBackRight
+    3300000: CarChassis
+    3300002: Hyd1FrontLeft
+    3300004: Hyd1FrontRight
+    3300006: Hyd2FrontLeft
+    3300008: Hyd2FrontRight
+    3300010: RotatorFrontLeft
+    3300012: RotatorFrontLeft 1
+    3300014: Suspension1FrontLeft
+    3300016: Suspension1FrontRight
+    3300018: Suspension2FrontLeft
+    3300020: Suspension2FrontRight
+    3300022: SuspensionBackLeft
+    3300024: SuspensionBackRight
+    4300000: CarChassis
+    4300002: RotatorFrontLeft
+    4300004: Suspension1FrontLeft
+    4300006: Suspension2FrontLeft
+    4300008: Hyd1FrontLeft
+    4300010: Hyd2FrontLeft
+    4300012: RotatorFrontLeft
+    4300014: Suspension1FrontRight
+    4300016: Suspension2FrontRight
+    4300018: Hyd1FrontRight
+    4300020: Hyd2FrontRight
+    4300022: SuspensionBackLeft
+    4300024: SuspensionBackRight
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

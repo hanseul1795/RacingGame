@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RedPortal
+  - BluePortal
+  - Car
+  - GameManager
+  - Obstacle
+  - CheckPoint
+  - LoopEnter
+  - LoopExit
+  - Wall
+  - Brake
+  - EndRace
+  - EndOfLap
+  - Magnetize
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Car
+  - Circuit
+  - Laser
+  - WinScreen
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Projectile
+    uniqueID: 2030990933
+    locked: 0
